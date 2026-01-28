@@ -15,6 +15,7 @@ abstractNote: In the Lady in the Lake scenario, a mobile agent, 𝐿, is pitted 
   of a Focal Line, a Universal Line, and their tributaries. The Focal Line tributaries’
   equilibrium strategy for 𝐿 is semi-analytic, while the Universal Line tributaries’
   equilibrium strategy is obtained in closed form.
+annotation: Presented at the International Symposium on Dynamic Games and Applications
 author: Von Moll, Alexander and Pachter, Meir
 author_list:
 - family: Von Moll

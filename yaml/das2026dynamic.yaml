@@ -1,0 +1,52 @@
+_papis_local_folder: /Users/vonmolal/papers/Das - Dynamic Assignment Switching and
+  Singular Surfaces in Multi-Agent
+abstractNote: Motivated by border-defense, this paper stud- ies a pursuit-evasion
+  game between two pursuers and two evaders where the payoff of the game is the sum
+  of evaders’ y-coordinates at their respective capture times. From the literature
+  we know that an assignment-based strategy achieves saddle-point equilibrium, provided
+  that pursuers commit to a fixed assignment at the initial time and maintain it throughout
+  the game. We relax this assump- tion and investigate scenarios where pursuers may
+  dy- namically switch assignments based on the evolving game state. We first derive
+  a closed-form characterization of the Assignment Switching Singular Surface (AS3).
+  Under fixed assignments, AS3 behaves as a “dispersal” surface without inducing chattering
+  behavior. However, when dynamic as- signment switching is permitted, the previously
+  established open-loop value of the game no longer represents saddle- point equilibrium.
+  Rather, pursuers dynamically switching assignments can guarantee payoffs strictly
+  exceeding the open-loop value of the game, while evaders cannot bound payoffs below
+  it. To address this asymmetry, we propose a Stackelberg evader strategy that provides
+  computable per- formance bounds for both teams, establishing tight bounds on the
+  true value of the game under dynamic assignment switching.
+annotation: Submitted for Review
+author: Das, Goutam and Lee, Yoonjae and Von Moll, Alexander and Maity, Dipankar and
+  Dorothy, Michael and Bakolas, Efstathios and Shishika, Daigo
+author_list:
+- family: Das
+  given: Goutam
+- family: Lee
+  given: Yoonjae
+- family: Von Moll
+  given: Alexander
+- family: Maity
+  given: Dipankar
+- family: Dorothy
+  given: Michael
+- family: Bakolas
+  given: Efstathios
+- family: Shishika
+  given: Daigo
+date: 2026-05-01
+files:
+- Das - Dynamic Assignment Switching and Singular Surfaces in Multi-Agent.pdf
+journal: Transactions on Automatic Control
+note: Submitted for Review
+papis_id: ce9c88e8ed18c885cf7236385e63c941
+project:
+- MyPubs
+publicationTitle: Transactions on Automatic Control
+publisher: IEEE
+ref: das2026dynamic
+time-added: 2026-01-02-11:57:43
+title: Dynamic Assignment Switching and Singular Surfaces in Multi-Agent Pursuit-Evasion
+  Games
+type: article
+year: 2026

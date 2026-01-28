@@ -17,7 +17,7 @@
 #if pub.type == "conferencePaper" {
   venue = plain-text(pub.conferenceName)
   tags.push("Conference")
-} else if pub.type == "article" {
+} else if pub.type == "article" or pub.type == "journal" {
   if "journal" in pub {
     venue = plain-text(pub.journal)
   } else {
@@ -36,7 +36,11 @@
 }
 
 #let note = none
-#if "note" in pub { note = [ (#pub.note)] }
+#if "note" in pub {
+  note = [ (#pub.note)]
+} else if "annotation" in pub {
+  note = [ (#pub.annotation)]
+}
 #let venue = [#venue#note]
 #let date = plain-text(pub.date)
 #let file = if "url" in pub { pub.url } else { none } 

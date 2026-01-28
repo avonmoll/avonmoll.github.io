@@ -13,6 +13,7 @@ abstractNote: We present a path planning problem for a pursuing agent to interce
   of the Dubins modes. We prove that the algorithm outputs the optimal solution, if
   the optimal intercepting path is a Dubins path; otherwise, it outputs the best found
   intercepting path and a tight lower bound to the optimal solution.
+annotation: Submitted for Review
 author: Manyam, Satyanarayana G. and Casbeer, David W. and Von Moll, Alexander and
   Fuchs, Zachariah
 author_list:

@@ -1,4 +1,0 @@
-[submodule "packages/zebraw"]
-	path = packages/zebraw
-	url = https://github.com/Myriad-Dreamin/typst-zebraw/
-	branch = better-html

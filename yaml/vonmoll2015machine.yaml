@@ -19,6 +19,7 @@ abstractNote: 'The intersection between machine learning and control theory is e
   into a PDDP-like algorithm: effort continues in the areas of understanding variational
   Bayes and variational message passing for learning GPRN hyperparameters, and in
   creating a MATLAB implementation.'
+annotation: Special Project AE8900
 author: Von Moll, Alexander
 author_list:
 - family: Von Moll

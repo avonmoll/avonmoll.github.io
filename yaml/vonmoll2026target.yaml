@@ -25,19 +25,18 @@ author_list:
   given: Daigo
 - family: Dorothy
   given: Michael
-conferenceName: American Control Conference
 date: 2026-05-26
+doi: 10.1109/LCSYS.2025.3645833
 files:
 - Von Moll - Target Defense Using a Turret and Mobile Defender.pdf
-note: Submitted for Review
+journal: Control Systems Letters
 papis_id: 26adcd675c5204d5a67bd3366b9829e3
-place: New Orleans, USA
-proceedingsTitle: American Control Conference
 project:
 - MyPubs
 publisher: IEEE
 ref: vonmoll2026target
 time-added: 2025-09-10-13:41:13
 title: Target Defense Using a Turret and Mobile Defender Team
-type: conferencePaper
+type: journal
+url: https://arxiv.org/abs/2509.09777
 year: 2026

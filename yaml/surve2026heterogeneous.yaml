@@ -27,18 +27,17 @@ author_list:
   given: Isaac
 - family: Casbeer
   given: David
-conferenceName: American Control Conference
 date: 2026-05-26
-files: []
-note: Submitted for Review
+doi: 10.1109/LCSYS.2025.3645033
+files:
+- Surve - Heterogeneous Pursuit of an Active Target Under Sensing.pdf
+journal: Control Systems Letters
 papis_id: 6e900c4e365aa780cdf4ec670f9ec781
-place: New Orleans, USA
-proceedingsTitle: American Control Conference
 project:
 - MyPubs
 publisher: IEEE
 ref: surve2026heterogeneous
 time-added: 2025-09-10-09:50:13
 title: Heterogeneous Pursuit of an Active Target Under Sensing Constraints
-type: conferencePaper
+type: journal
 year: 2026

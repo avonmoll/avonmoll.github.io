@@ -16,6 +16,7 @@ abstractNote: Recent approaches for navigating among dynamic threat regions (i.e
   associated with the simple controller. This approach, which is based on assuming
   the threats are adversarial, may be used as a conservative method for collision
   avoidance and deconfliction.
+arxiv: 2512.09083
 author: Von Moll, Alexander and Weintraub, Isaac
 author_list:
 - family: Von Moll
@@ -24,9 +25,9 @@ author_list:
   given: Isaac
 conferenceName: AIAA SciTech
 date: 2026-01-12
+doi: 10.2514/6.2026-1199
 files:
 - Von Moll - Reactive Vehicle Guidance using Dynamic Maneuvering Cue.pdf
-note: Accepted
 papis_id: d55fdce09a09d3484b202b13f91941ff
 place: Orlando, USA
 proceedingsTitle: AIAA SciTech
@@ -37,4 +38,5 @@ ref: vonmoll2026reactive
 time-added: 2025-07-21-15:45:47
 title: Reactive Vehicle Guidance using Dynamic Maneuvering Cue
 type: conferencePaper
+url: https://arxiv.org/abs/2512.09083
 year: 2026

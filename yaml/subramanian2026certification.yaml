@@ -33,8 +33,10 @@ author_list:
   given: Adam
 conferenceName: AIAA SciTech 2026
 date: 2026-01-12
-files: []
-note: Accepted
+doi: 10.2514/6.2026-2022
+files:
+- Subramanian - Certification of Dynamical Systems using End-to-End Distributionally-Robust
+  Uncertainty.pdf
 papis_id: e140579dbf673320ca2e2e3f43571181
 place: Orlando, USA
 proceedingsTitle: AIAA SciTech 2026

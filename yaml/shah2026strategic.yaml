@@ -1,0 +1,44 @@
+_papis_local_folder: /Users/vonmolal/papers/Shah - Strategic Evasion Using a Multi-Hypothesis
+  Control Barrier Function
+abstractNote: This paper focuses on the problem of safe, strategic motion planning
+  for an  evader in a dynamic pursuit-evasion game. While Control Barrier Functions
+  (CBFs)  are a popular method to maintain safety, traditional formulations often
+  rely on  fixed, conservative safety margins and isotropic, non-strategic safety
+  constraints.  This results in controllers that are either overly conservative or
+  fail to exploit tactical  opportunities for evasion. We propose a novel, unified
+  framework that addresses  these limitations through two key contributions. First,
+  we demonstrate the advantages of CBF functionality based on variable-speed nonholonomic
+  agents. Second,  we construct a set of directional CBFs that create asymmetric safe
+  regions tailored  to a pursuer’s straight, left, and right projected maneuvers.
+  To ensure controller  stability, we apply a smooth switching methodology that guarantees
+  continuous  control inputs during transitions between evasion strategies. The entire
+  framework  is unified within a single Quadratic Program (QP) that minimally alters
+  a nominal  evasion strategy while satisfying all safety and agent constraints. Through
+  a series of  comparative simulations, we demonstrate that our approach significantly
+  enhances  evasion performance, enabling successful escapes in scenarios where traditional  CBF
+  methods would tend to fail.
+annotation: Submitted for Review
+author: Shah, Sagar and Von Moll, Alexander and Weintraub, Isaac
+author_list:
+- family: Shah
+  given: Sagar
+- family: Von Moll
+  given: Alexander
+- family: Weintraub
+  given: Isaac
+conferenceName: Aviation Forum
+date: 2026-06-08
+files:
+- Shah - Strategic Evasion Using a Multi-Hypothesis Control Barrier Function.pdf
+note: Submitted for Review
+papis_id: b83e8db55081476018a11c65e17fe658
+place: San Diego, USA
+proceedingsTitle: Aviation Forum
+project:
+- MyPubs
+publisher: AIAA
+ref: shah2026strategic
+time-added: 2026-01-02-12:02:16
+title: Strategic Evasion Using a Multi-Hypothesis Control Barrier Function
+type: conferencePaper
+year: 2026

@@ -1,0 +1,53 @@
+_papis_local_folder: /Users/vonmolal/papers/Nimmagadda - Information-Theoretic Multi-Agent
+  Path Planning for Risk-Aware Navigation Under
+abstractNote: 'Autonomous navigation in severe weather requires balancing information
+  gathering and mission safety under extreme uncertainty. A novel multi-agent collaborative
+  framework addresses this challenge through information-theoretic path planning that
+  coordinates HighValue Aerial Assets (HVAA) with expendable Sensing Aerial Assets
+  (SAA) in hurricane-like conditions. The framework employs modified Rapidly-exploring
+  Random Tree star (RRT*) algorithms: Expected Travel Time RRT* for conservative HVAA
+  planning and InformationTheoretic RRT* for SAA exploration that maximizes uncertainty
+  reduction. To guide SAA behavior, an entropy-weighted utility function jointly optimizes
+  travel cost and expected information gain, enabling targeted sampling of high-uncertainty
+  regions characterized by bimodal wind distributions. A nonlinear trajectory-tracking
+  controller with look-ahead guidance ensures feasible execution of planned path under
+  strong wind disturbances. Hurricane Harvey 2017 wind data validates the approach,
+  demonstrating 28% path length reduction and 24.1% travel time improvement compared
+  to baseline non-collaborative planning. Under moderate wind conditions (6-8 m/s),
+  the system achieves 2.0-meter average tracking accuracy with 32meter maximum deviation
+  during aggressive maneuvers. Performance analysis reveals clear operational boundaries,
+  with acceptable operation below 14 m/s wind speeds and graceful degradation beyond
+  these limits. The framework enables safer autonomous navigation in uncertain environments
+  while quantifying operational constraints for deployment guidance.'
+annotation: Submitted for Review
+author: Nimmagadda, Aditya and Park, John and Von Moll, Alexander and Weintraub, Isaac
+  and Casbeer, David
+author_list:
+- family: Nimmagadda
+  given: Aditya
+- family: Park
+  given: John
+- family: Von Moll
+  given: Alexander
+- family: Weintraub
+  given: Isaac
+- family: Casbeer
+  given: David
+conferenceName: Aviation Forum
+date: 2026-06-08
+files:
+- Nimmagadda - Information-Theoretic Multi-Agent Path Planning for Risk-Aware Navigation
+  Under.pdf
+note: Submitted for Review
+papis_id: 945e99d1444288a16b336c7406ca5751
+place: San Diego, USA
+proceedingsTitle: Aviation Forum
+project:
+- MyPubs
+publisher: AIAA
+ref: nimmagadda2026information-theoretic
+time-added: 2026-01-02-12:11:42
+title: Information-Theoretic Multi-Agent Path Planning for Risk-Aware Navigation Under
+  Environmental Uncertainty
+type: conferencePaper
+year: 2026

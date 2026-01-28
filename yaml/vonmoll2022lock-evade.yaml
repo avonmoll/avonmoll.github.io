@@ -18,6 +18,7 @@ abstractNote: 'In this paper we model and analyze a scenario in the two-dimensio
   Attacker can terminate the game prior to lock-on and the game is comprised of a
   single stage. The equilibrium strategies are derived in each case, and a partitioning
   of the state space wherein a particular goal selection is optimal is constructed.'
+annotation: In preparation
 author: Von Moll, Alexander and Fuchs, Zachariah
 author_list:
 - family: Von Moll

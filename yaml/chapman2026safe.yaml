@@ -17,20 +17,19 @@ author_list:
   given: Alexander
 - family: Weintraub
   given: Isaac E.
-conferenceName: American Control Conference
 date: 2026-05-26
+doi: 10.1109/LCSYS.2025.3645221
 files:
+- Chapman - Safe Navigation in the Presence of Range-Limited Pursuers_a.pdf
 - Chapman - Safe Navigation in the Presence of Range-Limited Pursuers.pdf
-note: Submitted for Review
+journal: Control Systems Letters
 papis_id: d838ecf5a21ef328e02aee99070664ff
-place: New Orleans, USA
-proceedingsTitle: American Control Conference
 project:
 - MyPubs
 publisher: IEEE
 ref: chapman2026safe
 time-added: 2025-09-05-09:41:26
 title: Safe Navigation in the Presence of Range-Limited Pursuers
-type: conferencePaper
+type: journal
 url: https://arxiv.org/pdf/2509.04258
 year: 2026
