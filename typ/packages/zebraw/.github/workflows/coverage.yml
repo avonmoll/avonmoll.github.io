@@ -1,0 +1,25 @@
+name: Coverage Analysis
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+    
+      - name: Run Tinymist Coverage
+        uses: hongjr03/tinymist-coverage-workflow@v0.1.5
+        with:
+          target_files: README.typ
+          tinymist_version: latest
+          create_symlinks: true
+          report_path: coverage/output
+          auto_commit: true
+          readme_paths: README.md,README_zh.md
